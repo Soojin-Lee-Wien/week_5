@@ -1,0 +1,16 @@
+{
+  "posts": [
+    {
+      "maker": "Soojin",
+      "title": "치킨을 먹자!",
+      "content": "치킨이 먹고싶은걸?",
+      "id": 1
+    },
+    {
+      "maker": "ㅁㄴㅇㅁ",
+      "title": "바아바압아",
+      "content": "",
+      "id": 2
+    }
+  ]
+}
